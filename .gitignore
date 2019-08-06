@@ -1,0 +1,13 @@
+*.iml
+*.xmind
+.settings
+.project
+.classpath
+target
+*.class
+*.cmd
+mvnw
+*.md
+.idea
+.mvn
+*.jar
