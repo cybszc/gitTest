@@ -9,6 +9,8 @@ public class Main {
         System.out.println("新的代码再次提交");
         System.out.println("ezio新的代码再次提交");
         System.out.println("Today no lamp dancing");
+        System.out.println("ezio新的代码再次又一次提交");
+
 		
     }
 }
